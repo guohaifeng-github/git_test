@@ -1,0 +1,1 @@
+push from /d/git_clone/git_test !
